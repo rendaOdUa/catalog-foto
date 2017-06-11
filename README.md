@@ -1,3 +1,12 @@
+Заготовка проекта каталога фоток.
+
+Дамп бд catalogfoto.sql
+настройки коннекта находятся в данном файле - www\common\config\main-local.php -.
+
+localhost/ - frontend.
+localhost/admin - backend (Admin, 123456).
+
+
 Yii 2 Advanced Project Template
 ===============================
 
